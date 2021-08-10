@@ -30,7 +30,7 @@ Since 2017 I've been living and breathing web development and creating modern an
 <br/>  
 
 ### 🛠 Languages
-<div align="center">
+<div align="left">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" />
@@ -44,7 +44,7 @@ Since 2017 I've been living and breathing web development and creating modern an
 <br/>
 
 ### 🖥 Tools
-<div align="center">
+<div align="left">
 <img src="https://img.shields.io/badge/brackets-336791?style=for-the-badge&logo=RTLZWEI&logoColor=white" alt="brackets" />
 <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" alt="Atom" />
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=white" alt="Photoshop" />
