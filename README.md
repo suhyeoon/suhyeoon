@@ -38,7 +38,7 @@ Since 2017 I've been living and breathing web development and creating modern an
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" alt="java" />
 <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php" />
 <img src="https://img.shields.io/badge/SQL-407AFC?style=for-the-badge&logo=icloud&logoColor=white" alt="sql" />
-<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="markdown" />
+<img src="https://img.shields.io/badge/Markdown-%2324292e?style=for-the-badge&logo=markdown&logoColor=white" alt="markdown" />
 </div>
 
 <br/>
@@ -56,7 +56,7 @@ Since 2017 I've been living and breathing web development and creating modern an
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
 <img src="https://img.shields.io/badge/FileZilla-BF0000?style=for-the-badge&logo=FileZilla&logoColor=white" alt="FileZilla" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL" />
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+<img src="https://img.shields.io/badge/GitHub-%2324292e?style=for-the-badge&logo=github&logoColor=white" alt="github" />
 </div>
 
 <br/>
