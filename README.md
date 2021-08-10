@@ -1,4 +1,4 @@
-# Hi, I'm Suhyeon Jeon 👋  
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Suhyeon Jeon
 <div align="left">
 <a href="http://suhyeoon.github.io" target="_blank">
 <img src=https://img.shields.io/badge/my%20Portfolio-3b5998.svg?&style=for-the-badge&logo=moleculer&logoColor=white alt=portfolio style="margin-bottom: 5px;" />
