@@ -1,13 +1,13 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Suhyeon Jeon
 <div align="left">
 <a href="http://suhyeoon.github.io" target="_blank">
-<img src=https://img.shields.io/badge/my%20Portfolio-3b5998.svg?&style=for-the-badge&logo=moleculer&logoColor=white alt=portfolio style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Portfolio-3b5998.svg?&style=for-the-badge&logo=Bookmeter&logoColor=white alt=portfolio style="margin-bottom: 5px;" />
 </a>
 <a href="mailto:shjeonlab@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/-Gmail-d14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/-Email-d14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 </a>
 <a href="https://suhyeoon.tistory.com/" target="_blank">
-<img src=https://img.shields.io/badge/Blog-%231E77B5.svg?&style=for-the-badge&logo=github&logoColor=white alt=blog style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Blog-%231E77B5.svg?&style=for-the-badge&logo=GitBook&logoColor=white alt=blog style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/suhyeoon" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
