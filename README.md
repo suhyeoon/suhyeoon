@@ -6,8 +6,8 @@
 <a href="mailto:shjeonlab@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/-Gmail-d14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 </a>
-<a href="http://suhyeoon.github.io" target="_blank">
-<img src=https://img.shields.io/badge/GitBlog-%231E77B5.svg?&style=for-the-badge&logo=github&logoColor=white alt=gitblog style="margin-bottom: 5px;" />
+<a href="https://suhyeoon.tistory.com/" target="_blank">
+<img src=https://img.shields.io/badge/Blog-%231E77B5.svg?&style=for-the-badge&logo=github&logoColor=white alt=blog style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/suhyeoon" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -23,7 +23,7 @@ Since 2017 I've been living and breathing web development and creating modern an
 
 -  🌱 I’m currently learning `JavaScript`, `React.js`, `Gnuboard`
 -  💼 All of my projects are available at **[my portfolio](http://suhyeoon.github.io)**
--  📝 I regularly write articles on **[my blog](http://suhyeoon.github.io)**
+-  📝 I regularly write articles on **[my blog](https://suhyeoon.tistory.com/)**
 -  📫 How to reach me **shjeonlab@gmail.com**
 -  ⚡ Fun fact **I enjoy programming, writing and traveling.**
 
