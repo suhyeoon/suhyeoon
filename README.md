@@ -38,7 +38,6 @@ Since 2017 I've been living and breathing web development and creating modern an
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" alt="java" />
 <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php" />
 <img src="https://img.shields.io/badge/SQL-407AFC?style=for-the-badge&logo=icloud&logoColor=white" alt="sql" />
-<img src="https://img.shields.io/badge/Markdown-%2324292e?style=for-the-badge&logo=markdown&logoColor=white" alt="markdown" />
 </div>
 
 <br/>
