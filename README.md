@@ -3,7 +3,7 @@
 <a href="http://suhyeoon.github.io" target="_blank">
 <img src=https://img.shields.io/badge/Portfolio-3b5998.svg?&style=for-the-badge&logo=Bookmeter&logoColor=white alt=portfolio style="margin-bottom: 5px;" />
 </a>
-<a href="mailto:shjeonlab@gmail.com" target="_blank">
+<a href="mailto:shjeoon@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/-Email-d14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 </a>
 <a href="https://suhyeoon.tistory.com/" target="_blank">
@@ -24,7 +24,7 @@ Since 2017 I've been living and breathing web development and creating modern an
 -  🌱 I’m currently learning `JavaScript`, `React.js`, `Gnuboard`
 -  💼 All of my projects are available at **[my portfolio](http://suhyeoon.github.io)**
 -  📝 I regularly write articles on **[my blog](https://suhyeoon.tistory.com/)**
--  📫 How to reach me **shjeonlab@gmail.com**
+-  📫 How to reach me **shjeoon@gmail.com**
 -  ⚡ Fun fact **I enjoy programming, writing and traveling.**
 
 <br/>  
